@@ -1,0 +1,92 @@
+.maincontainer{
+    width: 90%;
+   
+    border:2px solid white;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+.item{
+    width: 330px;
+    display: inline-block;
+    margin: 4px;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+.head{
+    
+    background-color: blanchedalmond;
+    margin-left: 80px;
+    margin-right: 70px;
+    border-radius: 15px;
+}
+/* .headmail{
+    margin-left: 50px;
+    display: inline-block;
+    
+} */
+.headname{
+    margin-left: 10px;
+    display: inline-block;
+}
+.menu{
+    display: inline-block;
+    padding-left: 60px;
+}
+.mailicon{
+    display: inline-block;
+    margin-left: 50px;
+}
+.profile{
+    display: inline-block;
+    margin-left: 50px;
+}
+.home{
+    display: inline-block;
+    margin-left: 20px;
+}
+.foodicon{
+    display: inline-block;
+    margin-left: 400px;
+    
+}
+.item01{
+display: inline-block;
+}
+.itemicon{
+display: inline-block;
+}
+.bookmark{
+    display: inline-block;
+    margin-left: 380px;
+}
+.shopcart{
+    display: inline-block;
+margin-left: 50px;
+}
+.feedback{
+    margin-left: 20px;
+     margin-top: 8px;
+}
+.feedback1{
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.feedbackmain{
+    background-color: rgb(230, 230, 64);
+    margin-left: 525px;
+    margin-right: 520px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.review{
+    padding-top: 20px;
+}
+.helpdesk{
+    margin-left: 1400px;
+    
+}
