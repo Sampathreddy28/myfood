@@ -1,0 +1,182 @@
+.overall{
+    /* overflow: scroll;
+    height: 800px;
+    width: 1200px;
+    margin-left: 200px; */
+    position: fixed;
+     width: 100%;
+}
+.head{
+   
+    display: flex;
+    color: beige;
+    justify-content: space-around;
+   background-color: black;
+   padding-top: 20px;
+   padding-bottom: 20px;
+    border-radius: 20px;
+}
+.imgback{
+    
+    display: flex;
+    
+    
+}
+.imgback1{
+margin-top: 100px;
+width: 1500px;
+height: 700px;
+margin-left: 10px;
+position: relative;
+
+}
+.onimgh1,.onimgh2,.onimgh3{
+    
+    position: absolute;
+    color: white;
+    
+
+}
+
+.onimgh1{
+    padding-left: 350px;
+    padding-top: 50px;
+    font-size: 100px;
+}
+.onimgh2{
+    padding-left: 650px;
+    padding-top: 250px;
+    font-size: 100px;
+}
+.onimgh3{
+    padding-left: 950px;
+    padding-top: 450px;
+    font-size: 100px;
+   
+}
+
+.about{
+    
+    margin-left: 430px;
+    width: 703px;
+   line-height: 2;
+}
+
+.author{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(201, 197, 197);
+    border-left-color: black;
+}
+.abouthead{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin-left: 200px;
+    border-radius: 15px;
+    margin-right: 250px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.onimgh4{
+    
+    margin-left: 430px;
+    width: 700px;
+}
+.timing{
+margin-left: 430px;
+}
+.address{
+    margin-left: 430px;
+
+}
+.menu{
+    background-color: black;
+    color: azure;
+    margin-left: 705px;
+    padding-left: 10px;
+    margin-right: 655px;
+    border-radius: 15px;
+}
+.submenu{
+    border-radius: 15px;
+    display: flex;
+    background-color:burlywood;
+    justify-content: space-between;
+    margin-left: 280px;
+    
+    margin-right: 250px;
+    font-size: 25px;
+}
+.eat{
+    padding-left: 80px;
+}
+.drink{
+    padding-right: 160px;
+}
+.mainmemu{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.imgbottom2{
+    margin-top: 80px;
+    margin-left: 400px;
+    width: 800px;
+    height: 600px;
+}
+.find{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin-left: 640px;
+    margin-right: 630px;
+    border-radius: 15px;
+}
+.imgadd{
+    margin-left: 430px;
+    width: 700px;
+    height: 600px;
+    
+}
+.bottom{
+    margin-left: 450px;
+    margin-right: 400px;
+}
+.fyi{
+    background-color: black;
+    color: white;
+}
+.bottom1{
+    margin-left: 450px;
+    margin-right: 400px;
+}
+.bottommsg{
+    margin-left: 500px;
+   
+    
+    
+}
+.name,.people,.date,.msg{
+    border-radius: 10px;
+    height: 50px;
+    width: 500px;
+    margin-top: 50px;
+}
+.submit{
+    height: 40px;
+    margin-top: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 20px;
+}
+.button{
+    color: black;
+}
